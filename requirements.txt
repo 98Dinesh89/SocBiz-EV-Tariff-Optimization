@@ -10,3 +10,4 @@ requests
 jupyter
 plotly
 scipy
+openpyxl
